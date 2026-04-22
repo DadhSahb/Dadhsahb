@@ -1,6 +1,6 @@
 👋 Hello, I'm Hamza Hamid
 
-🚀 **Software Engineer** · Web + Mobile · Based in Islamabad, Pakistan
+🚀 **Software Engineer**
 
 🌟 About Me
 - 💼 3+ years shipping production web and mobile apps — plus 4+ years freelancing in parallel
